@@ -39,9 +39,6 @@ int main(){
             std::cout << "Invalid operator.\n";
             break;      
     }
-
-
     std::cout << "********************************\n";
-
     return 0;
 }
